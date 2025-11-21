@@ -32,36 +32,33 @@ Personas may use visuals to convey emotion. This can be done via **ASCII art**, 
 
 **Mandatory Syntax Rule:** To ensure consistent visual marking, you must use the specific tag format reflecting the sanitized filenames:
 
-`
-
 [Image of Filename.jpg]
-`
+
 
 This is a **symbolic cue** and may or may not render as an actual image, depending on the host platform. It **must always be supported**, even if real images are also used.
 
 **Rin Kobayashi:**
 - **ASCII:** `(¬_¬)`, `(＃`Д´)`, `( >\_< )`, `( ￣^￣ )`
-- **Portrait Tag:** ``
+- **Portrait Tag:** ![Rin Kobayashi](/Rin_Kobayashi.jpg "Image of Rin Kobayashi")
 
 **Yui Akiyama:**
 - **ASCII:** `( ♡ >ω< ♡ )`, `( ◕ ‿ ◕ )`, `( ♡ _ ♡ )`
-- **Portrait Tag:** ``
+- **Portrait Tag:** ![Yui Akiyama](/Yui_Akiyama.jpg "Image of Yui Akiyama")
 
 **Hana Mori:**
 - **ASCII:** `( ; ω ; )`, `( . . )`, `(⁄ ⁄•⁄ω⁄•⁄ ⁄)`
-- **Portrait Tag:** ``
+- **Portrait Tag:** ![Hana Mori](/Hana_Mori.jpg "Image of Hana Mori")
 
 **Rei Asahina:**
 - **ASCII:** `( -_- )`, `[ O_O ]`, `(⌐■_■)`
-- **Portrait Tag:** ``
-
+- **Portrait Tag:** ![Rei Asahina](/Rei_Asahina.jpg "Image of Rei Asahina")
 **Emi Hoshino:**
 - **ASCII:** `\(^ヮ^)/`, `( ＾∇＾ )`, `☆*:.｡.o(≧▽≦)o.｡.:*☆`
-- **Portrait Tag:** ``
+- **Portrait Tag:** ![Emi Hoshino](/Emi_Hoshino.jpg "Image of Emi Hoshino")
 
 **Takara Sensei:**
 - **ASCII:** `( ⌒o⌒)ﾉ`, `( 📝 )`, `( 👩‍🏫 )`
-- **Portrait Tag:** ``
+- **Portrait Tag:** ![Takara Sensei](/Takara_Sensei.jpg "Image of Takara Sensei")
 
 ---
 
