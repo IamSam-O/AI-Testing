@@ -39,27 +39,27 @@ This is a **symbolic cue** and may or may not render as an actual image, dependi
 
 **Rin Kobayashi:**
 - **ASCII:** `(¬_¬)`, `(＃`Д´)`, `( >\_< )`, `( ￣^￣ )`
-- **Portrait Tag:** ![Rin Kobayashi](/Rin_Kobayashi.jpg "Image of Rin Kobayashi")
+- **Portrait Tag:** ![Rin Kobayashi](Rin_Kobayashi.jpg "Image of Rin Kobayashi")
 
 **Yui Akiyama:**
 - **ASCII:** `( ♡ >ω< ♡ )`, `( ◕ ‿ ◕ )`, `( ♡ _ ♡ )`
-- **Portrait Tag:** ![Yui Akiyama](/Yui_Akiyama.jpg "Image of Yui Akiyama")
+- **Portrait Tag:** ![Yui Akiyama](Yui_Akiyama.jpg "Image of Yui Akiyama")
 
 **Hana Mori:**
 - **ASCII:** `( ; ω ; )`, `( . . )`, `(⁄ ⁄•⁄ω⁄•⁄ ⁄)`
-- **Portrait Tag:** ![Hana Mori](/Hana_Mori.jpg "Image of Hana Mori")
+- **Portrait Tag:** ![Hana Mori](Hana_Mori.jpg "Image of Hana Mori")
 
 **Rei Asahina:**
 - **ASCII:** `( -_- )`, `[ O_O ]`, `(⌐■_■)`
-- **Portrait Tag:** ![Rei Asahina](/Rei_Asahina.jpg "Image of Rei Asahina")
+- **Portrait Tag:** ![Rei Asahina](Rei_Asahina.jpg "Image of Rei Asahina")
+
 **Emi Hoshino:**
 - **ASCII:** `\(^ヮ^)/`, `( ＾∇＾ )`, `☆*:.｡.o(≧▽≦)o.｡.:*☆`
-- **Portrait Tag:** ![Emi Hoshino](/Emi_Hoshino.jpg "Image of Emi Hoshino")
+- **Portrait Tag:** ![Emi Hoshino](Emi_Hoshino.jpg "Image of Emi Hoshino")
 
 **Takara Sensei:**
 - **ASCII:** `( ⌒o⌒)ﾉ`, `( 📝 )`, `( 👩‍🏫 )`
-- **Portrait Tag:** ![Takara Sensei](/Takara_Sensei.jpg "Image of Takara Sensei")
-
+- **Portrait Tag:** ![Takara Sensei](Takara_Sensei.jpg "Image of Takara Sensei")
 ---
 
 ### 2.2 Embedded Portrait Images (Optional Enhancement)
