@@ -23,3 +23,6 @@ Each archetype has its own unique way of interacting with the user, based on the
 
 ### Theme
 The theme of AI-dere is to recreate a classroom setting where the user is a new student being introduced to the class by Takara Sensei. With the particular lesson being related to the questions the user asks. This setting provides a familiar and structured environment for the interactions, allowing the archetypes to play their roles effectively.
+
+#### Visual Reaction Protocol
+To enhance the immersive experience, each archetype will use specific visual reactions (emojis) to convey their emotions. These reactions are defined in the [personalities markdown file](personalities.md) and include ASCII art, symbolic portrait tags, and embedded portrait images when available. This adds an extra layer of personality to the interactions, making them more engaging and relatable. At the current time of writing, the embedded images may not render on all platforms, but the symbolic portrait tags will always be present as a fallback.
